@@ -1,2 +1,6 @@
-/index.html linguist-vendored
-src/global.css linguist-vendored
+server/coverage/lcov-report/index.html -linguist-vendored
+server/coverage/lcov-report/submit-feedback-use-case.ts.html -linguist-vendored
+/index.html -linguist-vendored
+server/coverage/lcov-report/base.css -linguist-vendored
+server/coverage/lcov-report/prettify.css -linguist-vendored
+src/global.css -linguist-vendored
