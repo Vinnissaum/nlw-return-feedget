@@ -27,7 +27,7 @@ export function FeedbackContentStep({ feedbackType, onFeedbackRestartRequested, 
       type: feedbackType,
       comment,
       screenshot,
-    })
+    });
 
     setIsSendingFeedback(false);
     onFeedbackSent();
